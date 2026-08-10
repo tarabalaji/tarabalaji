@@ -1,4 +1,4 @@
-# hi, i'm tara
+# hi, i'm tara!
 
 i'm a student interested in machine learning, ai, and computational research.
 
